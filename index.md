@@ -12,7 +12,7 @@ b = a + 5
 print(a, b)
 15, 20
 
-*solucion: este ejemplo es similar al que vimos en clase donde a es 15 y donde b le estan diciendo que sume lo que tiene a + 5 osea (15 + 5) es igual a 20.
+* solucion: este ejemplo es similar al que vimos en clase donde a es 15 y donde b le estan diciendo que sume lo que tiene a + 5 osea (15 + 5) es igual a 20.
 
 **ejemplo 2**
 x = 11
@@ -20,7 +20,7 @@ print(x == 11)
 print(11 == x)
 true
 
-*solucion: el operador == es comparar los valores de ambos lados y sale **true** si son iguales y sale **false** si no lo son.
+* solucion: el operador == es comparar los valores de ambos lados y sale **true** si son iguales y sale **false** si no lo son.
 
 ***reflexion personal***
 entender la programacion es ponerle mucho enfoque a las pequeñas cosas buscarle otro sentido a lo que estamos resolviendo, tambien es de repasar lo aprendido como las vareables, operadores y signos, algo que quiero aprender es como se ejecuta y se desarrolla el algoritmo. 
