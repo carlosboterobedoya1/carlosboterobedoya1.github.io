@@ -12,7 +12,7 @@ b = a + 5
 print(a, b)
 15, 20
 
-* solucion: este ejemplo es similar al que vimos en clase donde a es 15 y donde b le estan diciendo que sume lo que tiene a + 5 osea (15 + 5) es igual a 20.
+* **solucion**: este ejemplo es similar al que vimos en clase donde a es 15 y donde b le estan diciendo que sume lo que tiene a + 5 osea (15 + 5) es igual a 20.
 
 **ejemplo 2**
 x = 11
@@ -20,7 +20,19 @@ print(x == 11)
 print(11 == x)
 true
 
-* solucion: el operador == es comparar los valores de ambos lados y sale **true** si son iguales y sale **false** si no lo son.
+* **solucion**: el operador == es comparar los valores de ambos lados y sale **true** si son iguales y sale **false** si no lo son.
+
+**ejemplo 3**
+nombre = input("escribe tu nombre: ")
+edad = int(input("ingresa tu edad: "))
+esmayor = edad > 18
+estatura = float(input("ingresa tu estatura: "))
+
+
+print(f"hola mi nombre es {nombre} tengo {edad} años y mi estatura es {estatura}")
+print(esmayor)
+
+* **solucion**: primero input es una variable donde le pide al usuario que ingrese un valor, el cual en este caso es un nombre por ejemplo **"juan"** lo que ingrese se guarda en una variable llamada nombre, luego pide que ingrese una edad la cual lo convierte en un entero por eso el **"int"** y el cual se va a guardar en una variable llamada edad, despues crea una variable booleana donde si el valor de edad es > 18 es true y si es menor false, despues pide la estatura y lo pasa a decimal **"float"** por ejemplo 1.45. 
 
 ***reflexion personal***
-entender la programacion es ponerle mucho enfoque a las pequeñas cosas buscarle otro sentido a lo que estamos resolviendo, tambien es de repasar lo aprendido como las vareables, operadores y signos, algo que quiero aprender es como se ejecuta y se desarrolla el algoritmo. 
+entender la programacion es ponerle mucho enfoque a las pequeñas cosas buscarle otro sentido a lo que estamos resolviendo, tambien es de repasar lo aprendido como las vareables, operadores y signos, algo que quiero aprender es como se ejecuta y se desarrolla el algoritmo, entender como se desengrosa de tareas muy dificiles a tareas muy pequeñas y simples.
