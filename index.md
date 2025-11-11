@@ -5,6 +5,7 @@
 -se hablo tambien sobre python que es el lenguaje en el que vamos a trabajar en este bloque y que este hace parte del grupo de lenguajes formales, los formales aparecen en el area de la matematicas, tiene un significado preciso y utiliza simbolos particulares, tambien se hablo de los lenguajes naturales que son como el ingles y el español.
 
 -se hablo de las variables estas hacen referencia a un valor que guardamos en la memoria del computador, pueden ser numeros enteros que se representan como "int", tambien los decimales "float", las cadenas de texto "float" y los valores logicos "bool", se explicaron varios ejemplos donde utilizaban un adificio y se guardaba  valores en un apartamento y nos expliaron como hace el algoritmo para hacer las operaciones con ese simple ejemplo.*
+
 <img width="815" height="353" alt="Captura de pantalla 2025-11-10 201936" src="https://github.com/user-attachments/assets/0b4bfc93-9fee-467a-b608-1ac94e4a3c2a" />
 
 
