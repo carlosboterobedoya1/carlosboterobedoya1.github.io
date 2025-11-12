@@ -1,5 +1,7 @@
 #Primeros pasos en programación
+
 **que es un algoritmo?**
+
 *es una abstraccion, es decir; un modelo o forma de representar una parte de la realidad, las realidades en los algoritmas estan relacionadas con la manera de resolver un problema, se le puede dar solucion practicamente a cualquier area.
 
 -se hablo tambien sobre python que es el lenguaje en el que vamos a trabajar en este bloque y que este hace parte del grupo de lenguajes formales, los formales aparecen en el area de la matematicas, tiene un significado preciso y utiliza simbolos particulares, tambien se hablo de los lenguajes naturales que son como el ingles y el español.
