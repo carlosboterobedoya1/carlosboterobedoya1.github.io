@@ -1,4 +1,4 @@
-Primeros pasos en programación
+#Primeros pasos en programación
 **que es un algoritmo?**
 *es una abstraccion, es decir; un modelo o forma de representar una parte de la realidad, las realidades en los algoritmas estan relacionadas con la manera de resolver un problema, se le puede dar solucion practicamente a cualquier area.
 
