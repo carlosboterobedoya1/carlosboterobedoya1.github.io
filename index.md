@@ -10,32 +10,25 @@
 
 
 **ejemplo 1**
-a = 15
-b = a + 5
-print(a, b)
-15, 20
+
+<img width="277" height="130" alt="Captura de pantalla 2025-11-12 171146" src="https://github.com/user-attachments/assets/70d8b550-7f0b-426f-8338-c1e7574ff4e4" />
+
 
 * **solucion**: este ejemplo es similar al que vimos en clase donde a es 15 y donde b le estan diciendo que sume lo que tiene a + 5 osea (15 + 5) es igual a 20.
 
 **ejemplo 2**
-x = 11
-print(x == 11)
-print(11 == x)
-true
+
+<img width="299" height="151" alt="Captura de pantalla 2025-11-12 171326" src="https://github.com/user-attachments/assets/fef695f3-6ade-4608-80f9-2f843a4d4814" />
+
 
 * **solucion**: el operador == es comparar los valores de ambos lados y sale **true** si son iguales y sale **false** si no lo son.
 
 **ejemplo 3**
-nombre = input("escribe tu nombre: ")
-edad = int(input("ingresa tu edad: "))
-esmayor = edad > 18
-estatura = float(input("ingresa tu estatura: "))
+
+<img width="520" height="215" alt="Captura de pantalla 2025-11-12 171620" src="https://github.com/user-attachments/assets/b2393786-61de-4ca6-969d-3e57e5346a7a" />
 
 
-print(f"hola mi nombre es {nombre} tengo {edad} años y mi estatura es {estatura}")
-print(esmayor)
-
-* **solucion**: primero input es una variable donde le pide al usuario que ingrese un valor, el cual en este caso es un nombre por ejemplo **"juan"** lo que ingrese se guarda en una variable llamada nombre, luego pide que ingrese una edad la cual lo convierte en un entero por eso el **"int"** y el cual se va a guardar en una variable llamada edad, despues crea una variable booleana donde si el valor de edad es > 18 es true y si es menor false, despues pide la estatura y lo pasa a decimal **"float"** por ejemplo 1.45. 
+* **solucion**: primero input es una variable donde le pide al usuario que ingrese un valor, el cual en este caso es un nombre, por ejemplo: **"juan"** lo que ingrese se guarda en una variable llamada nombre, luego pide que ingrese una edad, por ejemplo: **21**  la cual lo convierte en un entero por eso el "int" y el cual se va a guardar en una variable llamada edad, despues crea una variable booleana donde si el valor de edad es > 18 es true y si es menor false, despues pide la estatura y lo pasa a decimal **"float"** por ejemplo 1.45. 
 
 ***reflexion personal***
 entender la programacion es ponerle mucho enfoque a las pequeñas cosas buscarle otro sentido a lo que estamos resolviendo, tambien es de repasar lo aprendido como las vareables, operadores y signos, algo que quiero aprender es como se ejecuta y se desarrolla el algoritmo, entender como se desengrosa de tareas muy dificiles a tareas muy pequeñas y simples.
