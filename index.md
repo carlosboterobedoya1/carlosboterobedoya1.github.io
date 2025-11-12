@@ -1,4 +1,4 @@
-#python
+Primeros pasos en programación
 **que es un algoritmo?**
 *es una abstraccion, es decir; un modelo o forma de representar una parte de la realidad, las realidades en los algoritmas estan relacionadas con la manera de resolver un problema, se le puede dar solucion practicamente a cualquier area.
 
@@ -28,7 +28,7 @@
 <img width="520" height="215" alt="Captura de pantalla 2025-11-12 171620" src="https://github.com/user-attachments/assets/b2393786-61de-4ca6-969d-3e57e5346a7a" />
 
 
-* **solucion**: primero input es una variable donde le pide al usuario que ingrese un valor, el cual en este caso es un nombre, por ejemplo: **"juan"** lo que ingrese se guarda en una variable llamada nombre, luego pide que ingrese una edad, por ejemplo: **21**  la cual lo convierte en un entero por eso el "int" y el cual se va a guardar en una variable llamada edad, despues crea una variable booleana donde si el valor de edad es > 18 es true y si es menor false, despues pide la estatura y lo pasa a decimal **"float"** por ejemplo 1.45. 
+* **solucion**: primero input es una variable donde le pide al usuario que ingrese un valor, en este caso es un nombre, por ejemplo: **"juan"** lo que ingrese se guarda en una variable llamada "nombre", luego pide que ingrese una edad, por ejemplo: **21**  la cual lo convierte en un entero por eso el "int" y el cual se va a guardar en una variable llamada "edad", despues pide la estatura y lo pasa a decimal "float" por ejemplo **1.45**, despues crea una variable booleana donde si el valor de edad es > 18 es true y si es menor false.
 
 ***reflexion personal***
 entender la programacion es ponerle mucho enfoque a las pequeñas cosas buscarle otro sentido a lo que estamos resolviendo, tambien es de repasar lo aprendido como las vareables, operadores y signos, algo que quiero aprender es como se ejecuta y se desarrolla el algoritmo, entender como se desengrosa de tareas muy dificiles a tareas muy pequeñas y simples.
