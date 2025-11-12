@@ -1,4 +1,4 @@
-#Primeros pasos en programación
+#**Primeros pasos en programación**
 
 **que es un algoritmo?**
 
