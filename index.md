@@ -15,8 +15,9 @@ Digamos que tenemos un archivero en orden alfabetico y en cada letra tenemos sob
 
 En programacion, pasa algo similar pero con variables, por ejemplo:
 
-´´´
+´´´python
 a = 5
+
 ´´´
 
 
