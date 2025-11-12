@@ -17,7 +17,6 @@ En programacion, pasa algo similar pero con variables, por ejemplo:
 
 ´´´python
 a = 5
-
 ´´´
 
 
