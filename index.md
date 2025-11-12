@@ -5,20 +5,22 @@
 *Es una abstraccion, es decir; un modelo o forma de representar una parte de la realidad, las realidades en los algoritmas estan relacionadas con la manera de resolver un problema, se le puede dar solucion practicamente a cualquier area.
 
 ##**Otros temas relacionados**
+
 -Se hablo tambien sobre python que es el lenguaje en el que vamos a trabajar en este bloque y que este hace parte del grupo de lenguajes formales, los formales aparecen en el area de la matematicas, tiene un significado preciso y utiliza simbolos particulares, tambien se hablo de los lenguajes naturales que son como el ingles y el español.
 
 -Otro tema que se hablo son las variables estas hacen referencia a un valor que guardamos en la memoria del computador, pueden ser numeros enteros que se representan como "int", tambien los decimales "float", las cadenas de texto "float" y los valores logicos "bool", se explicaron varios ejemplos donde utilizaban un adificio y se guardaba  valores en un apartamento y nos expliaron como hace el algoritmo para hacer las operaciones con este simple ejemplo.*
 
 <img width="516" height="186" alt="Captura de pantalla 2025-11-10 201936" src="https://github.com/user-attachments/assets/0b4bfc93-9fee-467a-b608-1ac94e4a3c2a" />
 
-[!Note]
-Digamos que tenemos un archivero en orden alfabetico y en cada letra tenemos sobres, dentro de cada sobre esta la informacion, por ejemplo "Camilo" que vive el la Torre el Carmelo, calle 105 #45-56, apt 504.
+>[!Note]
+>Digamos que tenemos un archivero en orden alfabetico y en cada letra tenemos sobres, dentro de cada sobre esta la informacion, por ejemplo "Camilo" que vive el la Torre el Carmelo, calle 105 #45-56, apt 504.
 
 En programacion, pasa algo similar pero con variables, por ejemplo:
 
 ```python
 a = 5
 ```
+
 El interprete de Python asigna un sector de la memoria el interprete "a" similar a la carta de camilo, guarda en este sector el valor de 5, el apartamento debe ser lo suficiente para abarcar un entero en binario como lo es el 5.
 
 
