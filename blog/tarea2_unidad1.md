@@ -6,6 +6,17 @@
 def adelante(n):
     print("-" * n + ">")
     return
-´´´
+```
+
+```python
+adelante(50)
+```
+
+```
+-------------------------------------------------->
+```
+
 
 **#Segundo ejercicio simulacion de la tortuga bajando**
+
+
