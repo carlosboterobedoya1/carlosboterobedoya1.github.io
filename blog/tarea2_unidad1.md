@@ -1,4 +1,5 @@
 ***###Carlos Horacio Botero Bedoya - Adentrandome a la programacion***
+
 ##**Tarea 2 - Ejercicios Unidad 1**
 
 **#Primer ejercicio hacer que ujna tortuga camine hacia delante:**
@@ -9,16 +10,20 @@ def adelante(n):
     return
 ```
 
+
 ```python
 adelante(50)
 ```
+
 
 ```
 -------------------------------------------------->
 ```
 
 
+
 **#Segundo ejercicio simulacion de la tortuga bajando**
+
 
 ```python
 def abajo(n):
@@ -27,9 +32,11 @@ def abajo(n):
     return
 ```
 
+
 ```python
 abajo(5)
 ```
+
 
 ```
 |
@@ -41,13 +48,16 @@ V
 ```
 
 
+
 **#Tercer ejercicio que es hacer que la tortuga simule hacer un giro de 90 grados.**
+
 
 
 ```python
 def adelante(n):
     print("-" * n + ">")
     return
+
 
 def abajo(n, m, actual=0):  # En este caso se utilizo recursion ya que hace el papel de un ciclo, actual=0 controla cuantas 
     if actual > m:         # veces se llama a si misma y cuando se debe detener.
@@ -61,10 +71,12 @@ def abajo(n, m, actual=0):  # En este caso se utilizo recursion ya que hace el p
                              # lo que se quiere es abajo(m).
 ```
 
+
 ```python
 adelante(5)
 abajo(5, 2)
 ```
+
 
 ```
 ----->
@@ -73,9 +85,11 @@ abajo(5, 2)
      V
 ```
 
+
 **#Cuarto ejercicio simucacion de una tortuga baje escalones.**
 
 **primera solucion.**
+
 
 
 ```python
@@ -106,9 +120,11 @@ def escalon(n, m, repeticiones, nivel=0):  # Nivel empieza en cero y va subiendo
                                             # quedaria asi escalon(5,2,3)
 ```
 
+
 ```python
 escalon(5, 2, 3)
 ```
+
 
 ```
 ----->
@@ -127,6 +143,7 @@ escalon(5, 2, 3)
 
 
 **segunda solucion del cuarto ejercicio**
+
 
 ```python
 posicion = 0  # Posicion es una variable que guarda cuantos espacios hay que poner antes de dibujar, y queda fuera para declarar las dos sentencias.
@@ -152,6 +169,7 @@ def abajo(n):
     print(" " * vertical + "V")  # Al final se imprime la cabeza "V"
 ```
 
+
 ```python
 adelante(5)
 abajo(2)
@@ -162,6 +180,7 @@ abajo(2)
 adelante(5)
 abajo(2)
 ```
+
 
 ```
 ----->
