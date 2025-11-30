@@ -7,4 +7,5 @@ def adelante(n):
     print("-" * n + ">")
     return
 
-*#Segundo ejercicio simulacion de la tortuga bajando*
+
+**#Segundo ejercicio simulacion de la tortuga bajando**
