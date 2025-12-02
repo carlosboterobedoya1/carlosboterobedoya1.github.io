@@ -2,7 +2,7 @@
 
 ##**Tarea 2 - Ejercicios Unidad 1**
 
-**#Primer ejercicio hacer que ujna tortuga camine hacia delante:**
+**#Primer ejercicio hacer que una tortuga camine hacia delante:**
 
 ```python
 def adelante(n):
@@ -22,7 +22,7 @@ adelante(50)
 
 
 
-**#Segundo ejercicio simulacion de la tortuga bajando**
+**#Segundo ejercicio simulacion de la tortuga bajando:**
 
 
 ```python
@@ -49,7 +49,7 @@ V
 
 
 
-**#Tercer ejercicio que es hacer que la tortuga simule hacer un giro de 90 grados.**
+**#Tercer ejercicio que es hacer que la tortuga simule hacer un giro de 90 grados:**
 
 
 
@@ -86,9 +86,9 @@ abajo(5, 2)
 ```
 
 
-**#Cuarto ejercicio simucacion de una tortuga baje escalones.**
+**#Cuarto ejercicio simucacion de una tortuga baje escalones:**
 
-**primera solucion.**
+**primera solucion:**
 
 
 
@@ -142,7 +142,7 @@ escalon(5, 2, 3)
 ```
 
 
-**segunda solucion del cuarto ejercicio**
+**segunda solucion del cuarto ejercicio:**
 
 
 ```python
