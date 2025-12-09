@@ -1,3 +1,32 @@
+#Pagina personal - Carlos Botero
+
+Esta es mi pagina personal sobre programacion, donde podremos observar como adentrarnos en este tema de los algoritmos,
+tambien observaremos ejercicios relacionados 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #**Primeros pasos en programación**
 
 **Que es un algoritmo?**
