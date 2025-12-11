@@ -1,4 +1,4 @@
-#Blog personal - Carlos Botero
+#**Blog personal - Carlos Botero**
 
 <img width="227" height="290" alt="Captura de pantalla 2025-12-10 191252" src="https://github.com/user-attachments/assets/8b9c72dd-5f90-4fed-9aae-1ad473d3725e" />
 
