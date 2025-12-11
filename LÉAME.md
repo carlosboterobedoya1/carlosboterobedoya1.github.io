@@ -8,11 +8,11 @@ Donde estare subiendo contendio sobre programación y adentrarnos a este mundo q
 y entradas de blog.
 
 🗃️##**Temas a tratar**
- -Que es la programación.
- 
- -Conceptos basicos de la programación.
- 
- -Ejercicios basicos.
+
+- Qué es la programación.
+- Conceptos básicos de la programación.
+- Ejercicios básicos.
+
 
 ✅Dejo por aqui mi link directo a mi pagina personal https://carlosboterobedoya1.github.io/
 
