@@ -16,3 +16,5 @@ y entradas de blog.
 
 ✅Dejo por aqui mi link directo a mi pagina personal https://carlosboterobedoya1.github.io/
 
+### Ultimas entradas:
+* [Creando una libreria desde cero](./blog/tarea2_unidad1.md)
