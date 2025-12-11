@@ -1,33 +1,9 @@
-#Pagina personal - Carlos Botero
+#**Pagina personal - Carlos Botero**
 
 Esta es mi pagina personal sobre programacion, donde podremos observar como adentrarnos en este tema de los algoritmos,
-tambien observaremos ejercicios relacionados 
+tambien observaremos ejercicios resueltos como turtle.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#**Primeros pasos en programación**
+## Primero vamos a ver conceptos basicos sobre programación 
 
 **Que es un algoritmo?**
 
@@ -35,9 +11,9 @@ tambien observaremos ejercicios relacionados
 
 ##**Otros temas relacionados**
 
--Se hablo tambien sobre python que es el lenguaje en el que vamos a trabajar en este bloque y que este hace parte del grupo de lenguajes formales, los formales aparecen en el area de la matematicas, tiene un significado preciso y utiliza simbolos particulares, tambien se hablo de los lenguajes naturales que son como el ingles y el español.
+-Python que es el lenguaje en el que vamos a trabajar en este bloque y que este hace parte del grupo de lenguajes formales, los formales aparecen en el area de la matematicas, tiene un significado preciso y utiliza simbolos particulares, tambien se hablo de los lenguajes naturales que son como el ingles y el español.
 
--Otro tema que se hablo son las variables estas hacen referencia a un valor que guardamos en la memoria del computador, pueden ser numeros enteros que se representan como "int", tambien los decimales "float", las cadenas de texto "float" y los valores logicos "bool", se explicaron varios ejemplos donde utilizaban un adificio y se guardaba  valores en un apartamento y nos expliaron como hace el algoritmo para hacer las operaciones con este simple ejemplo.*
+-Otra concepto basico son las variables estas hacen referencia a un valor que guardamos en la memoria del computador, pueden ser numeros enteros que se representan como "int", tambien los decimales "float", las cadenas de texto "float" y los valores logicos "bool", se explicaron varios ejemplos donde utilizaban un adificio y se guardaba  valores en un apartamento y nos expliaron como hace el algoritmo para hacer las operaciones con este simple ejemplo.*
 
 <img width="516" height="186" alt="Captura de pantalla 2025-11-10 201936" src="https://github.com/user-attachments/assets/0b4bfc93-9fee-467a-b608-1ac94e4a3c2a" />
 
@@ -80,3 +56,5 @@ El interprete de Python asigna un sector de la memoria el interprete "a" similar
 
 ###***Reflexion personal***
 Entender la programacion es ponerle mucho enfoque a las pequeñas cosas buscarle otro sentido a lo que estamos resolviendo, tambien es de repasar lo aprendido como las vareables, operadores y signos, algo que quiero aprender es como se ejecuta y se desarrolla el algoritmo, entender como se desengrosa de tareas muy dificiles a tareas muy pequeñas y simples.
+
+
