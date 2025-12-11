@@ -58,3 +58,5 @@ El interprete de Python asigna un sector de la memoria el interprete "a" similar
 Entender la programacion es ponerle mucho enfoque a las pequeñas cosas buscarle otro sentido a lo que estamos resolviendo, tambien es de repasar lo aprendido como las vareables, operadores y signos, algo que quiero aprender es como se ejecuta y se desarrolla el algoritmo, entender como se desengrosa de tareas muy dificiles a tareas muy pequeñas y simples.
 
 
+### Ultimas entradas:
+* [Creando una libreria desde cero](./blog/tarea2_unidad1.md)
