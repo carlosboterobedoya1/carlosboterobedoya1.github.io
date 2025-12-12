@@ -59,5 +59,5 @@ Entender la programacion es ponerle mucho enfoque a las pequeñas cosas buscarle
 
 
 ### Ultimas entradas:
-* [Creando una libreria desde cero](./blog/tarea2_unidad1.md)
-* * [ejercicio 1 Versión Funcional](https://github.com/carlosboterobedoya1/turtle_ejercicio1)
+ * [Creando una libreria desde cero](./blog/tarea2_unidad1.md)
+ * [ejercicio 1 Versión Funcional](https://github.com/carlosboterobedoya1/turtle_ejercicio1)
