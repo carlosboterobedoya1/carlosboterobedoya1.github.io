@@ -18,4 +18,5 @@ y entradas de blog.
 
 ### Ultimas entradas:
 * [Creacion del movimineto de una tortuga](./blog/tarea2_unidad1.md)
-* [ejercicio 1 Versión Funcional](https://github.com/carlosboterobedoya1/turtle_ejercicio1)
+* [ejercicio 1: Versión Funcional](https://github.com/carlosboterobedoya1/turtle_ejercicio1)
+* [ejercicio 2: Versión Orientada a Objetos (POO)](https://github.com/carlosboterobedoya1/turtle_ejercicio2)
