@@ -18,4 +18,4 @@ y entradas de blog.
 
 ### Ultimas entradas:
 * [Creacion del movimineto de una tortuga](./blog/tarea2_unidad1.md)
-* [Creacion del movimineto de una tortuga]((https://github.com/carlosboterobedoya1/turtle_ejercicio1))
+* [ejercicio 1](https://github.com/carlosboterobedoya1/turtle_ejercicio1)
